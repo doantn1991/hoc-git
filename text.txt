@@ -5,3 +5,4 @@ add develop
 add master.
 
 add lan 1
+add lan 1 master.
